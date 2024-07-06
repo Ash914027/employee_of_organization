@@ -2,7 +2,7 @@
 
 In large organizations the data of employees can be handled by multiple people. New employees are added to the system, the HR department updates their roles and responsibilities etc.
 
-Write a program to display the employee list in an organization. Use a timer callback with a delay of 2 seconds to display the employee list only after an employee is added to the list.
+Write a program to display the employee list in an organization. Use a timer callback with a delay of 2 seconds to display the employee list only after an employee is added to the list..
 
 ## Tasks
 
