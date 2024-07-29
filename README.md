@@ -16,7 +16,7 @@ Write a program to display the employee list in an organization. Use a timer cal
 1. Download and unzip the boilerplate code.
 2. Run the command `npm install` to install the dependencies.
 3. Open the boilerplate code in VSCode to develop the solution.
-4. Write the code in the **.js** files present in **src** folder
+4. Write the code in the **.js** files present in **src** folder.
 5. Run the test scripts available under **src/test** by giving `npm run test` command in the terminal to test locally.
 6. Refactor the solution to ensure all test cases are passing.
 7. Zip the solution code with the name same as assignment name.
