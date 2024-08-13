@@ -1,5 +1,5 @@
 
-# 🔍 Problem Statement - Employees of An Organization
+# 🔍 Problem Statement - Employees of An Organization.
 
 In large organizations the data of employees can be handled by multiple people. New employees are added to the system, the HR department updates their roles and responsibilities etc...
 
